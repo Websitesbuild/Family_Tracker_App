@@ -1,0 +1,176 @@
+id,country_code,country_name
+1,AF,Afghanistan
+2,AL,Albania
+3,DZ,Algeria
+4,AO,Angola
+5,AR,Argentina
+6,AM,Armenia
+7,AU,Australia
+8,AT,Austria
+9,AZ,Azerbaijan
+10,BS,Bahamas
+11,BD,Bangladesh
+12,BY,Belarus
+13,BE,Belgium
+14,BZ,Belize
+15,BJ,Benin
+16,BT,Bhutan
+17,BO,Bolivia
+18,BA,Bosnia and Herzegovina
+19,BW,Botswana
+20,BR,Brazil
+21,BN,Brunei Darussalam
+22,BG,Bulgaria
+23,BF,Burkina Faso
+24,BI,Burundi
+25,KH,Cambodia
+26,CM,Cameroon
+27,CA,Canada
+28,CF,Central African Republic
+29,TD,Chad
+30,CL,Chile
+31,CN,China
+32,CR,Costa Rica
+33,CO,Colombia
+34,CD,"Congo, (Kinshasa)"
+35,CI,Côte d'Ivoire
+36,HR,Croatia
+37,CU,Cuba
+38,CY,Cyprus
+39,CZ,Czech Republic
+40,DK,Denmark
+41,DJ,Djibouti
+42,DO,Dominican Republic
+43,EC,Ecuador
+44,EG,Egypt
+45,SV,El Salvador
+46,GQ,Equatorial Guinea
+47,ER,Eritrea
+48,EE,Estonia
+49,ET,Ethiopia
+50,FK,Falkland Islands (Malvinas)
+51,FJ,Fiji
+52,FI,Finland
+53,FR,France
+54,GF,French Guiana
+55,TF,French Southern Territories
+56,GA,Gabon
+57,GM,Gambia
+58,GE,Georgia
+59,DE,Germany
+60,GH,Ghana
+61,GR,Greece
+62,GL,Greenland
+63,GT,Guatemala
+64,GN,Guinea
+65,GW,Guinea-Bissau
+66,GY,Guyana
+67,HT,Haiti
+68,HN,Honduras
+69,HU,Hungary
+70,IS,Iceland
+71,ID,Indonesia
+72,IR,"Iran, Islamic Republic of"
+73,IQ,Iraq
+74,IE,Ireland
+75,IL,Israel
+76,IT,Italy
+77,JM,Jamaica
+78,JP,Japan
+79,JO,Jordan
+80,MD,Moldova
+81,KZ,Kazakhstan
+82,KE,Kenya
+83,KP,Korea (North)
+84,KR,Korea (South)
+85,KW,Kuwait
+86,KG,Kyrgyzstan
+87,LA,Lao PDR
+88,LV,Latvia
+89,LB,Lebanon
+90,LS,Lesotho
+91,LR,Liberia
+92,LY,Libya
+93,LT,Lithuania
+94,LU,Luxembourg
+95,MK,"Macedonia, Republic of"
+96,MG,Madagascar
+97,MW,Malawi
+98,MY,Malaysia
+99,ML,Mali
+100,MR,Mauritania
+101,MX,Mexico
+102,MN,Mongolia
+103,ME,Montenegro
+104,MA,Morocco
+105,MZ,Mozambique
+106,MM,Myanmar
+107,NA,Namibia
+108,NP,Nepal
+109,NL,Netherlands
+110,NC,New Caledonia
+111,NZ,New Zealand
+112,NI,Nicaragua
+113,NE,Niger
+114,NG,Nigeria
+115,NO,Norway
+116,OM,Oman
+117,PK,Pakistan
+118,PS,Palestinian Territory
+119,PA,Panama
+120,PG,Papua New Guinea
+121,PY,Paraguay
+122,PE,Peru
+123,PH,Philippines
+124,PT,Portugal
+125,PR,Puerto Rico
+126,QA,Qatar
+127,RO,Romania
+128,RU,Russian Federation
+129,RW,Rwanda
+130,SA,Saudi Arabia
+131,SN,Senegal
+132,RS,Serbia
+133,SL,Sierra Leone
+134,SK,Slovakia
+135,SI,Slovenia
+136,SB,Solomon Islands
+137,SO,Somalia
+138,ZA,South Africa
+139,SS,South Sudan
+140,ES,Spain
+141,LK,Sri Lanka
+142,SD,Sudan
+143,SR,Suriname
+144,SJ,Svalbard and Jan Mayen Islands
+145,SZ,Swaziland
+146,SE,Sweden
+147,CH,Switzerland
+148,SY,Syrian Arab Republic (Syria)
+149,TW,"Taiwan, Republic of China"
+150,TJ,Tajikistan
+151,TZ,"Tanzania, United Republic of"
+152,TH,Thailand
+153,IN,India
+154,CG,Congo (Brazzaville)
+155,PL,Poland
+156,TL,Timor-Leste
+157,TG,Togo
+158,TT,Trinidad and Tobago
+159,TN,Tunisia
+160,TR,Turkey
+161,TM,Turkmenistan
+162,UG,Uganda
+163,UA,Ukraine
+164,AE,United Arab Emirates
+165,GB,United Kingdom
+166,US,United States of America
+167,UY,Uruguay
+168,UZ,Uzbekistan
+169,VU,Vanuatu
+170,VE,Venezuela (Bolivarian Republic)
+171,VN,Viet Nam
+172,EH,Western Sahara
+173,YE,Yemen
+174,ZM,Zambia
+175,ZW,Zimbabwe
